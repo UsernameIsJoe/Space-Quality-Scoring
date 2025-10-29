@@ -401,7 +401,7 @@ def visualize_top_images(
     oi, (xs[i_top], thumb_y + dy),
     frameon=False, box_alignment=(0.5, 1.0),
     clip_on=False,
-    zorder=1        # 👈 add this line
+    zorder=1
 )
             ax.add_artist(ab)
             ax.add_artist(ab)
@@ -417,6 +417,7 @@ def visualize_top_images(
         ax.grid(True, alpha=0.3)
         plt.tight_layout()
         plt.show()
+
 
 
 
