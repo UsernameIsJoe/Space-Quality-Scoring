@@ -10,4 +10,4 @@ Save both scripts and the image files in the same folder, then run the script. T
 
 ## What's Next
 
-Combine this with sentiment analysis to explore how objective image-based scoring aligns with subjective emotional responses. (Updated, please run "machin_view.ipynb" to get the analysis)
+Combine this with sentiment analysis to explore how objective image-based scoring aligns with subjective emotional responses. (Updated, please run "machine_view.ipynb" to get the analysis)
